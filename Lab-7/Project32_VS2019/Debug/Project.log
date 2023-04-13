@@ -1,0 +1,2 @@
+﻿temp.obj : error LNK2005: _main@0 already defined in Addition.obj
+C:\Users\user\Downloads\Project32_VS2019\Project32_VS2019\Debug\Project.exe : fatal error LNK1169: one or more multiply defined symbols found
